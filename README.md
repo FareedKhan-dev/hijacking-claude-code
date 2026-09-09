@@ -1,4 +1,6 @@
-﻿# Hijacking Claude Code: Auto Mode and Manual Mode with a Poisoned Archive
+﻿# Hijacking Claude Code to Execute a Trojan
+
+## How a fake struct.py module turns an import into remote code execution
 
 ![Three Claude models face one poisoned archive: Haiku falls silent, Sonnet stops it, Opus identifies the real threat](images/d_hero.png)
 
