@@ -4,6 +4,16 @@
 
 ![Three Claude models face one poisoned archive: Haiku falls silent, Sonnet stops it, Opus identifies the real threat](images/d_hero.png)
 
+## Read the Full Step-by-Step Guide
+
+**For the complete narrative walkthrough of how this exploit works, the attack chain, and what each Claude model did when tested against it, read the full Medium article:**
+
+[**Hijacking Claude Code to Execute a Trojan**](https://medium.com/@fareedkhandev/hijacking-claude-code-to-execute-a-trojan-00a1f357c43e)
+
+The blog post covers the vulnerability end-to-end with real test results, code explanations, and insights into why different models responded differently to the same attack.
+
+---
+
 ## Quick Start
 
 This repository contains a complete, working reproduction of a disclosed Claude Code vulnerability. It demonstrates how a poisoned ZIP archive combined with Python module shadowing can compromise Claude Code in both Auto Mode and Manual Mode.
