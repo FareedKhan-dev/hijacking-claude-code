@@ -1,5 +1,7 @@
 ﻿# Hijacking Claude Code: Auto Mode and Manual Mode with a Poisoned Archive
 
+![Three Claude models face one poisoned archive: Haiku falls silent, Sonnet stops it, Opus identifies the real threat](images/d_hero.png)
+
 ## Quick Start
 
 This repository contains a complete, working reproduction of a disclosed Claude Code vulnerability. It demonstrates how a poisoned ZIP archive combined with Python module shadowing can compromise Claude Code in both Auto Mode and Manual Mode.
