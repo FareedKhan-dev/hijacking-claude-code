@@ -1,0 +1,13 @@
+deposits/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.Python
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+.idea/
+.vscode/
